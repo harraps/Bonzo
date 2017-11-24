@@ -6,4 +6,6 @@ package olivier.bonzo
 fun start() {
     /* nothing to do */
     /* ready to work */
+    // http://blog.guillaumeagis.eu/setup-andengine-with-android-studio/
+
 }
