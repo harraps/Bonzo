@@ -5,4 +5,5 @@ package olivier.bonzo
  */
 fun start() {
     /* nothing to do */
+    /* ready to work */
 }
